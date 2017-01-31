@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					7CDA91D01E1368A700E9C964 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = BSL6FK9FBY;
 						ProvisioningStyle = Automatic;
 					};
 					7CDA91E61E1368A700E9C964 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BSL6FK9FBY;
 				INFOPLIST_FILE = CarGalleryApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.abhiduttasolutions.CarGalleryApp;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BSL6FK9FBY;
 				INFOPLIST_FILE = CarGalleryApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.abhiduttasolutions.CarGalleryApp;
@@ -507,6 +510,7 @@
 				7CDA91FD1E1368A700E9C964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CDA91FE1E1368A700E9C964 /* Build configuration list for PBXNativeTarget "CarGalleryAppTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				7CDA92001E1368A700E9C964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CDA92011E1368A700E9C964 /* Build configuration list for PBXNativeTarget "CarGalleryAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				7CDA92031E1368A700E9C964 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
